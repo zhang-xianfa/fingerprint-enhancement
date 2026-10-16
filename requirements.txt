@@ -1,6 +1,13 @@
+# 最终提交的 cGAN 实现（src/enhance.py）
 torch
 torchvision
 opencv-python
 numpy
 matplotlib
 tqdm
+
+# experiments/ 下的实验代码额外用到
+scipy
+scikit-learn
+scikit-image
+Pillow
